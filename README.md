@@ -22,7 +22,13 @@ Here are some ideas to get you started:
 - 🏆 Hackthefuture 2019 - .NET Category **🥇 1st place**
 - 🏆 Hackthefuture 2020 - Java Category **🥇 1st place**  
 
+<h3>Accounts: </h3>
+<a href="https://dev.to/shawnrg">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shawn's DEV Profile" height="30" width="30">
+</a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
  
+>
