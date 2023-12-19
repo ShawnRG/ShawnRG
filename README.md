@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Shawn</h1>
-<h3 align="center">A professional Java developer and amateuristic game developer.</h3>
+<h3 align="center">A professional Software developer and amateuristic game developer.</h3>
 
 <h3>Prizes:</h3>
 
